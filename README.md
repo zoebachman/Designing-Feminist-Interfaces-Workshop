@@ -7,7 +7,7 @@ Repo for Designing Feminist Interfaces Workshop by tendernet
 
 **Instructors:**
 
-members of [tendernet](http://tendernet.us), [tendernet@gmail.com](mailto:tendernet@gmail.com)
+members of [tendernet](http://tendernet.us), [tendernet.collective@gmail.com](mailto:tendernet.collective@gmail.com)
 
    [Zoe Bachman](http://zoebachman.net), [zoe.bachman@gmail.com](mailto:zoe.bachman@gmail.com)
 
