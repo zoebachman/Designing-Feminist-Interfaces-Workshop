@@ -5,7 +5,7 @@ Repo for Designing Feminist Interfaces Workshop by tendernet
 * Feminist Zine Fest 2019 (Barnard Collect)
 * NYC Resistor July 6, 2019 
 
-* **Instructors:**
+**Instructors:**
 
 members of [tendernet](http://tendernet.us), [tendernet@gmail.com](mailto:tendernet@gmail.com)
 
@@ -14,12 +14,10 @@ members of [tendernet](http://tendernet.us), [tendernet@gmail.com](mailto:tender
    [Becca Ricks](http://beccaricks.com/), [baricks@gmail.com](mailto:zbaricks@gmail.com)
 
 ## Workshop Description
-**Whose stories dominate urban memory? Who is “allowed” to participate in the process of placemaking? How do we construct alternative modes of engaging with a public space?**
 
 Technology is often described as ‘disruptive’, while it serves to perpetuate existing power structures. It’s not an accident, for instance, that our technologies that function effectively as “caregivers” or “secretaries” are designed to have female voices. What does it mean to imagine an alternative, feminist voice interface? Can we hack voice interfaces to be more feminist?
 
 In this workshop, we’ll work together to imagine and prototype possible futures for voice technologies. Through a series of speculative design exercises, we’ll think about and discuss what voice technologies and software could look like if we designed them in line with the central commitments of feminism: participation, agency, embodiment, equity, empowerment, plurality, and justice. Taking our discussion as inspiration, we’ll explore how we can hack voice technologies and bring them in line with feminist principles, such as using JavaScript to build custom Alexa skills that subvert the practices of current smart assistants. This workshop asks participants to think speculatively about how technology can impact feminism, but we also acknowledge that there’s no one tech solution to fix these larger issues.
-
 
 * [Presentation Slides](https://docs.google.com/presentation/d/1Q3BNKhmFmyEPGHxeMufI4XP5EADUYXQ_DA2Koz5kpq4/edit?usp=sharing)
 * [are.na channel](https://www.are.na/zoe-bachman/tendernet)
@@ -45,20 +43,20 @@ Feel free to add to this list!
 ## Amazon Alexa Skill Resources
 
 #### General Design and Developement Documentation
-*[Amazon documentation](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html) - information on how to build a skill
-*[Alexa Design Guide](https://developer.amazon.com/docs/alexa-design/get-started.html) - information on how to design a skill
-*[Design Guide PDFs](https://github.com/alexa/alexa-cookbook/tree/master/tools/situational-design) - pdfs to guide your design process
+* [Amazon documentation](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html) - information on how to build a skill
+* [Alexa Design Guide](https://developer.amazon.com/docs/alexa-design/get-started.html) - information on how to design a skill
+* [Design Guide PDFs](https://github.com/alexa/alexa-cookbook/tree/master/tools/situational-design) - pdfs to guide your design process
 
 ### NodeJS SDK Documentation
-*[Alexa NodeJS v2 SDK](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - GitHub repo with sample code and templates
-*[Alexa NodeJS SDK docs](https://ask-sdk-for-nodejs.readthedocs.io/en/latest/Developing-Your-First-Skill.html) - explaining the NodeJS SDK code
-*[Differences between SDK v1 and v2](https://www.talkingtocomputers.com/alexa-skills-kit-ask-sdk-v2) - in case you see older NodeJS SDK documentation, this can help you spot the differences
+* [Alexa NodeJS v2 SDK](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - GitHub repo with sample code and templates
+* [Alexa NodeJS SDK docs](https://ask-sdk-for-nodejs.readthedocs.io/en/latest/Developing-Your-First-Skill.html) - explaining the NodeJS SDK code
+* [Differences between SDK v1 and v2](https://www.talkingtocomputers.com/alexa-skills-kit-ask-sdk-v2) - in case you see older NodeJS SDK documentation, this can help you spot the differences
 
 ### Tutorials
-*[Steps for Building a Custom Skill](https://developer.amazon.com/docs/custom-skills/steps-to-build-a-custom-skill.html) - walks you through how to build a custom skill
-*[Codecademy Alexa Skill Courses](https://www.codecademy.com/learn/learn-alexa) - teaches you how to build a custom skill. note: some lessons use NodeJS SDK v2, some are still v1
-*[Codecademy Alexa Conversational Design Courses](https://www.codecademy.com/learn/alexa-conversational-design) - teaches you how to design skills (SDK v1)
+* [Steps for Building a Custom Skill](https://developer.amazon.com/docs/custom-skills/steps-to-build-a-custom-skill.html) - walks you through how to build a custom skill
+* [Codecademy Alexa Skill Courses](https://www.codecademy.com/learn/learn-alexa) - teaches you how to build a custom skill. note: some lessons use NodeJS SDK v2, some are still v1
+* [Codecademy Alexa Conversational Design Courses](https://www.codecademy.com/learn/alexa-conversational-design) - teaches you how to design skills (SDK v1)
 
 ### Sample Code
-*[Sample Alexa Projects](https://github.com/alexa) - GitHub repo with different example projects you can riff on
-*[Fact Skill Tutorial](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/tutorials/fact-skill-1) - walks you through a sample fact skill
+* [Sample Alexa Projects](https://github.com/alexa) - GitHub repo with different example projects you can riff on
+* [Fact Skill Tutorial](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/tutorials/fact-skill-1) - walks you through a sample fact skill
