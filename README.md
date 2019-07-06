@@ -1,8 +1,8 @@
 # Designing Feminist Interfaces Workshop
-Repo for Designing Feminist Interfaces Workshop by tendernet
+Repo for Designing Feminist Interfaces Workshop by [tendernet](http://tendernet.us)
 
 **Sessions**:
-* Feminist Zine Fest 2019 (Barnard Collect)
+* Feminist Zine Fest 2019 (Barnard College)
 * NYC Resistor July 6, 2019 
 
 **Instructors:**
@@ -38,6 +38,18 @@ Via developer.amazon.com/home.html:
 
 ## Recommended Readings and Relevant Projects
 Feel free to add to this list!
+
+#### Feminist/Decolonized/Radical Design
+* [Priviledge and Oppression: Towards a Feminist Speculative Design (2014](http://a-pare.de/2014/privilege-and-oppression-towards-a-feminist-speculative-design/)
+* [Gender HCI, Feminist HCI, Post-Colonial Computing, Anti-Oppressive Design, and Design Justice (2016)](https://medium.com/a-change-is-coming/gender-hci-feminist-hci-and-post-colonial-computing-f955a4054c89)
+* [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice (2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189696)
+* [Human-Computer Insurrection (2019)](https://ironholds.org/resources/papers/anarchist_hci.pdf)
+
+#### Relevant Projects
+* [Meet Q](http://www.genderlessvoice.com/) - Genderless Voice Assistant
+* [Hello Owl](https://medium.com/@SmartDesign/https-medium-com-smartdesign-hello-owl-oral-history-45013a98b5f2) - Alexa for Accessibility
+* [Project Alias](http://bjoernkarmann.dk/project_alias) - Hacking an Alexa for better privacy
+
 
 
 ## Amazon Alexa Skill Resources
