@@ -48,6 +48,7 @@ Feel free to add to this list!
 * [Gender HCI, Feminist HCI, Post-Colonial Computing, Anti-Oppressive Design, and Design Justice (2016)](https://medium.com/a-change-is-coming/gender-hci-feminist-hci-and-post-colonial-computing-f955a4054c89)
 * [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice (2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189696)
 * [Human-Computer Insurrection (2019)](https://ironholds.org/resources/papers/anarchist_hci.pdf)
+* Syllabus: [Hello, Computer: Unconventional Uses of Voice Technology](https://github.com/nicolehe/ITP-hello-computer-f18)
 
 #### Relevant Projects
 * [Feminist Internet](https://feministinternet.com/)
