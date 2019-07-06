@@ -39,18 +39,25 @@ Via developer.amazon.com/home.html:
 ## Recommended Readings and Relevant Projects
 Feel free to add to this list!
 
-#### Feminist/Decolonized/Radical Design
-* [Priviledge and Oppression: Towards a Feminist Speculative Design (2014](http://a-pare.de/2014/privilege-and-oppression-towards-a-feminist-speculative-design/)
+#### Readings/Listenings
+* ['Helpful Mom Voices'](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) - podcast
+* [Sorry, Alexa Is Not a Feminist](https://www.theatlantic.com/technology/archive/2018/01/sorry-alexa-is-not-a-feminist/551291/)
+* [Feminist Principles of the Internet](https://feministinternet.org/)
+* [Feminist Internet: Designing a Feminist Alexa](https://medium.com/@m.ronceroolmeda0720181/feminist-internet-designing-a-feminist-alexa-2cd0a30d308a)
+* [Privilege and Oppression: Towards a Feminist Speculative Design (2014](http://a-pare.de/2014/privilege-and-oppression-towards-a-feminist-speculative-design/)
 * [Gender HCI, Feminist HCI, Post-Colonial Computing, Anti-Oppressive Design, and Design Justice (2016)](https://medium.com/a-change-is-coming/gender-hci-feminist-hci-and-post-colonial-computing-f955a4054c89)
 * [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice (2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189696)
 * [Human-Computer Insurrection (2019)](https://ironholds.org/resources/papers/anarchist_hci.pdf)
 
 #### Relevant Projects
+* [Feminist Internet](https://feministinternet.com/)
 * [Meet Q](http://www.genderlessvoice.com/) - Genderless Voice Assistant
 * [Hello Owl](https://medium.com/@SmartDesign/https-medium-com-smartdesign-hello-owl-oral-history-45013a98b5f2) - Alexa for Accessibility
+* [Bud](https://www.youtube.com/watch?v=Hmr-2rXwChs) - Instead of ‘choosing a gender,' users choose the sound of a voice they feel most comfortable with.
+* [Page](https://www.youtube.com/watch?v=GeTHdrYcWOk) - Responds to verbal abuse, in line with PIA conversation design.
+* [Boo](https://www.youtube.com/watch?v=g0k55JdQKuY) - Teenagers can ask taboo questions about puberty
+* [Egami](https://www.youtube.com/watch?v=F6Z88BRuaCA) - Promotes self-expression and self- love to the user
 * [Project Alias](http://bjoernkarmann.dk/project_alias) - Hacking an Alexa for better privacy
-
-
 
 ## Amazon Alexa Skill Resources
 
