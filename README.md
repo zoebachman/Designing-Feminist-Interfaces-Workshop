@@ -4,6 +4,8 @@ Repo for Designing Feminist Interfaces Workshop by [tendernet](http://tendernet.
 **Sessions**:
 * Feminist Zine Fest 2019 (Barnard College)
 * NYC Resistor July 6, 2019 
+* Better World by Design Conference 2019 (RISD and Brown University)
+* MOCA Toronto November 14, 2019
 
 **Instructors:**
 
@@ -22,7 +24,46 @@ In this workshop, we’ll work together to imagine and prototype possible future
 * [Presentation Slides](https://docs.google.com/presentation/d/1Q3BNKhmFmyEPGHxeMufI4XP5EADUYXQ_DA2Koz5kpq4/edit?usp=sharing)
 * [are.na channel](https://www.are.na/zoe-bachman/tendernet)
 
-## Amazon Developer Account
+
+## Recommended Readings and Relevant Projects
+Feel free to add to this list!
+
+### Readings/Listenings
+#### Background on Alexa and Feminism
+* ['Helpful Mom Voices'](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) - podcast
+* [Sorry, Alexa Is Not a Feminist](https://www.theatlantic.com/technology/archive/2018/01/sorry-alexa-is-not-a-feminist/551291/)
+* [We tested bots like Siri and Alexa to see who would stand up to sexual harassment](https://qz.com/911681/we-tested-apples-siri-amazon-echos-alexa-microsofts-cortana-and-googles-google-home-to-see-which-personal-assistant-bots-stand-up-for-themselves-in-the-face-of-sexual-harassment/)
+* [Yelling at Amazon's Alexa](https://www.newyorker.com/culture/sarah-larson/yelling-at-alexa-amazon-echo)
+* [Why Computer Voices are Mostly Female](https://www.cnn.com/2011/10/21/tech/innovation/female-computer-voices/index.html)
+* [Can Amazon's Alexa Be Your Friend?](https://digg.com/2017/amazon-alexa-is-not-your-friend)
+
+#### Intersectional Feminist, Justice-Centered Approaches to Design
+* [Feminist Principles of the Internet](https://feministinternet.org/)
+* [Privilege and Oppression: Towards a Feminist Speculative Design (2014)](http://a-pare.de/2014/privilege-and-oppression-towards-a-feminist-speculative-design/)
+* [Gender HCI, Feminist HCI, Post-Colonial Computing, Anti-Oppressive Design, and Design Justice (2016)](https://medium.com/a-change-is-coming/gender-hci-feminist-hci-and-post-colonial-computing-f955a4054c89)
+* [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice (2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189696)
+* [Human-Computer Insurrection (2019)](https://ironholds.org/resources/papers/anarchist_hci.pdf)
+* [Ruha Benjamin - Captivating Technology_ Race, Carceral Technoscience, And Liberatory Imagination in Everyday Life-Duke University Press (2019)](https://www.scribd.com/document/422263626/Ruha-Benjamin-Captivating-Technology-Race-Carceral-Technoscience-And-Liberatory-Imagination-in-Everyday-Life-Duke-University-Press-2019)
+
+#### Design Guides for Voice Technology
+* Syllabus: [Hello, Computer: Unconventional Uses of Voice Technology](https://github.com/nicolehe/ITP-hello-computer-f18)
+* [Design Guide: Talking with Machines (from the BBC)](https://www.bbc.co.uk/rd/projects/talking-with-machines)
+* [Voice User Interfaces (VUI) — The Ultimate Designer’s Guide](https://medium.muz.li/voice-user-interfaces-vui-the-ultimate-designers-guide-8756cb2578a1)
+* [Redesigning the Voice Experience of an Amazon's Alexa through Co-creative AI Design.](https://www.christinemeinders.com/thoughtful-voice-design)
+
+
+#### Relevant Projects
+* [Feminist Internet: Designing a Feminist Alexa](https://medium.com/@m.ronceroolmeda0720181/feminist-internet-designing-a-feminist-alexa-2cd0a30d308a)
+* [Meet Q](http://www.genderlessvoice.com/) - Genderless Voice Assistant
+* [Hello Owl](https://medium.com/@SmartDesign/https-medium-com-smartdesign-hello-owl-oral-history-45013a98b5f2) - Alexa for Accessibility
+* [Bud](https://www.youtube.com/watch?v=Hmr-2rXwChs) - Instead of ‘choosing a gender,' users choose the sound of a voice they feel most comfortable with.
+* [Page](https://www.youtube.com/watch?v=GeTHdrYcWOk) - Responds to verbal abuse, in line with PIA conversation design.
+* [Boo](https://www.youtube.com/watch?v=g0k55JdQKuY) - Teenagers can ask taboo questions about puberty
+* [Egami](https://www.youtube.com/watch?v=F6Z88BRuaCA) - Promotes self-expression and self- love to the user
+* [Project Alias](http://bjoernkarmann.dk/project_alias) - Hacking an Alexa for better privacy
+
+## Amazon Alexa Skill Resources
+### Amazon Developer Account
 Participants will need to [sign up](https://www.amazon.com/ap/register?openid.return_to=https://developer.amazon.com/ap_login.html&prevRID=YMJTKK0F0T208ZATVYKA&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.assoc_handle=mas_dev_portal&openid.mode=checkid_setup&prepopulatedLoginId=&failedSignInCount=0&language=en_US&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&pageId=amzn_developer_portal&openid.ns=http://specs.openid.net/auth/2.0) for a Amazon Developer Account in order to create a custom skill.
 
 Access the Alexa Developer Console using either method below:
@@ -35,34 +76,7 @@ Via developer.amazon.com/home.html:
 - [Sign in](https://www.amazon.com/ap/signin?openid.return_to=https%3A%2F%2Fdeveloper.amazon.com%2Fap_login.html&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=mas_dev_portal&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_developer_portal&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&language=en_US&openid.pape.max_auth_age=1?&sc_channel=RD&sc_campaign=codeacademy&sc_detail=C1&sc_segment=codeacademydevs&sc_publisher=codeacademyc1&sc_country=US&sc_medium=RD_codeacademy_C1_codeacademydevs_codeacademyc1_US_RD_C1E5c&sc_trackingcode=RD_C1E5c) to your Amazon Developer Account.
 - Click on Alexa Skills Kit in the top navigation bar, under Alexa.
 
-
-## Recommended Readings and Relevant Projects
-Feel free to add to this list!
-
-#### Readings/Listenings
-* ['Helpful Mom Voices'](http://reasonablysound.com/2018/02/27/helpful-mom-voices/) - podcast
-* [Sorry, Alexa Is Not a Feminist](https://www.theatlantic.com/technology/archive/2018/01/sorry-alexa-is-not-a-feminist/551291/)
-* [Feminist Principles of the Internet](https://feministinternet.org/)
-* [Feminist Internet: Designing a Feminist Alexa](https://medium.com/@m.ronceroolmeda0720181/feminist-internet-designing-a-feminist-alexa-2cd0a30d308a)
-* [Privilege and Oppression: Towards a Feminist Speculative Design (2014)](http://a-pare.de/2014/privilege-and-oppression-towards-a-feminist-speculative-design/)
-* [Gender HCI, Feminist HCI, Post-Colonial Computing, Anti-Oppressive Design, and Design Justice (2016)](https://medium.com/a-change-is-coming/gender-hci-feminist-hci-and-post-colonial-computing-f955a4054c89)
-* [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice (2018)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189696)
-* [Human-Computer Insurrection (2019)](https://ironholds.org/resources/papers/anarchist_hci.pdf)
-* Syllabus: [Hello, Computer: Unconventional Uses of Voice Technology](https://github.com/nicolehe/ITP-hello-computer-f18)
-
-#### Relevant Projects
-* [Feminist Internet](https://feministinternet.com/)
-* [Meet Q](http://www.genderlessvoice.com/) - Genderless Voice Assistant
-* [Hello Owl](https://medium.com/@SmartDesign/https-medium-com-smartdesign-hello-owl-oral-history-45013a98b5f2) - Alexa for Accessibility
-* [Bud](https://www.youtube.com/watch?v=Hmr-2rXwChs) - Instead of ‘choosing a gender,' users choose the sound of a voice they feel most comfortable with.
-* [Page](https://www.youtube.com/watch?v=GeTHdrYcWOk) - Responds to verbal abuse, in line with PIA conversation design.
-* [Boo](https://www.youtube.com/watch?v=g0k55JdQKuY) - Teenagers can ask taboo questions about puberty
-* [Egami](https://www.youtube.com/watch?v=F6Z88BRuaCA) - Promotes self-expression and self- love to the user
-* [Project Alias](http://bjoernkarmann.dk/project_alias) - Hacking an Alexa for better privacy
-
-## Amazon Alexa Skill Resources
-
-#### General Design and Developement Documentation
+### General Design and Developement Documentation
 * [Amazon documentation](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html) - information on how to build a skill
 * [Alexa Design Guide](https://developer.amazon.com/docs/alexa-design/get-started.html) - information on how to design a skill
 * [Design Guide PDFs](https://github.com/alexa/alexa-cookbook/tree/master/tools/situational-design) - pdfs to guide your design process
