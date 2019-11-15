@@ -3,9 +3,9 @@ Repo for Designing Feminist Interfaces Workshop by [tendernet](http://tendernet.
 
 **Sessions**:
 * Feminist Zine Fest 2019 (Barnard College)
-* NYC Resistor July 6, 2019 
-* Better World by Design Conference 2019 (RISD and Brown University)
-* MOCA Toronto November 14, 2019
+* NYC Resistor July 6, 2019 ([slides](https://docs.google.com/presentation/d/1Q3BNKhmFmyEPGHxeMufI4XP5EADUYXQ_DA2Koz5kpq4/edit?usp=sharing))
+* Better World by Design Conference 2019 (RISD and Brown University) ([slides](https://docs.google.com/presentation/d/14buptdE_WPkydrHDvzgjGmquDQTJlESqn6P2oJGgOC0/edit?usp=sharing))
+* MOCA Toronto November 14, 2019 ([slides](https://docs.google.com/presentation/d/1BqiQc_oFkXU8crvmt0lif0JzfH2JpZUAdNX8Bwe4mng/edit?usp=sharing))
 
 **Instructors:**
 
@@ -21,7 +21,6 @@ Technology is often described as ‘disruptive’, while it serves to perpetuate
 
 In this workshop, we’ll work together to imagine and prototype possible futures for voice technologies. Through a series of speculative design exercises, we’ll think about and discuss what voice technologies and software could look like if we designed them in line with the central commitments of feminism: participation, agency, embodiment, equity, empowerment, plurality, and justice. Taking our discussion as inspiration, we’ll explore how we can hack voice technologies and bring them in line with feminist principles, such as using JavaScript to build custom Alexa skills that subvert the practices of current smart assistants. This workshop asks participants to think speculatively about how technology can impact feminism, but we also acknowledge that there’s no one tech solution to fix these larger issues.
 
-* [Presentation Slides](https://docs.google.com/presentation/d/1Q3BNKhmFmyEPGHxeMufI4XP5EADUYXQ_DA2Koz5kpq4/edit?usp=sharing)
 * [are.na channel](https://www.are.na/zoe-bachman/tendernet)
 
 
