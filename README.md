@@ -11,9 +11,9 @@ Repo for Designing Feminist Interfaces Workshop by [tendernet](http://tendernet.
 
 members of [tendernet](http://tendernet.us), [tendernet.collective@gmail.com](mailto:tendernet.collective@gmail.com)
 
-   [Zoe Bachman](http://zoebachman.net), [zoe.bachman@gmail.com](mailto:zoe.bachman@gmail.com)
+   [Zoe Bachman](http://zoebachman.net)
 
-   [Becca Ricks](http://beccaricks.com/), [baricks@gmail.com](mailto:zbaricks@gmail.com)
+   [Becca Ricks](http://beccaricks.com/)
 
 ## Workshop Description
 
